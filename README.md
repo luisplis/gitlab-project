@@ -1,5 +1,7 @@
 # GitHub & Git CLI Project
-> by luisplis@gmail.com
+
+> CheatSheet de GitHub y Git CLI para el manejo de PRs, antes un recordatorio de los comandos básicos de Git
+> **``by luisplis@gmail.com``**
 
 ### Configuración y Preparación
 
