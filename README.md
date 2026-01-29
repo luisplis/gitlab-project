@@ -139,3 +139,15 @@ Modifica los hashes de tus commits originales. No hay commits de "merge" adicion
 3. Push,Subir cambios,git push origin mi-mejora
 4. PR,Proponer cambios,gh pr create
 5. Merge,Integrar,(Se hace en la web de GitHub)
+
+---
+
+Please consider the below factors while contributing
+Code Style: Maintain a consistent code style for readability.
+Documentation: Ensure well documented code for effective collaboration.
+Testing: Thoroughly test your changes before submitting a pull request.
+Issue Tracker: Check the Issue Tracker for tasks.
+Code Review: All contributions undergo a code review process.
+Licensing: Contributions are licensed.
+
+---
